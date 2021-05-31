@@ -2,7 +2,7 @@
 
 <a id='english-version' class='anchor' aria-hidden='true'/>
 
-# Template for open source code repositories of the Ville de Montréal
+# Architecture Principles of Montréal en commun
 
 ## Template for README.md
 
@@ -37,7 +37,7 @@ ______________________
 
 <a id='french-version' class='anchor' aria-hidden='true'/>
 
-# Gabarit pour dépôts de code source libre de la Ville de Montréal
+# Principes directeurs d'architecture du programme Montréal en commun
 
 ## Gabarit pour README.md
 
