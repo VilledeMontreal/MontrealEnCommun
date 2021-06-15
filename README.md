@@ -23,9 +23,9 @@ Le but de ce document est de présenter la liste des principes directeurs de des
 4. **Logiciels et matériels libres**, en vertu de la politique de logiciels libres de la Ville de Montréal, miser sur le développement et l’adoption de logiciels et de matériels sous licence ouverte, afin de limiter les risques de menottage technologique et maximiser la capacité d’évolution des solutions développées. Tous les projets développés dans le cadre de Montréal en Commun ont une vocation à être réplicables et proposer des solutions appelées à devenir  des communs, au service de la communauté montréalaise et ailleurs.
 
 5. **Les données : un actif stratégique à protéger et valoriser**, les données sont un bien qui a de la valeur que le programme Montréal en Commun aspire à rendre accessible dans son initiative de données ouvertes. La pratique de ce principe vise en particulier à :
-Optimiser la catégorisation et faciliter la découverte et l’accessibilité aux données.
-Maintenir la qualité des données, normalisation, sanitization et agrégation.
-Respecter les principes de la Charte des données.
+    - Optimiser la catégorisation et faciliter la découverte et l’accessibilité aux données.
+    - Maintenir la qualité des données, normalisation, sanitization et agrégation.
+    - Respecter les principes de la Charte des données.
 
 6. **Standardisation**, adopter les standards métiers existants, notamment pour les APIs et les échanges de données, et contribuer aux efforts de standardisation pertinents. Suivre aussi des méthodologies de développement qui observent en particulier les standards métiers comme les essais unitaires, révision du code et processus automatisés.
 
@@ -37,7 +37,7 @@ Respecter les principes de la Charte des données.
 
 10. **Accessibilité et convivialité**, favoriser l’adoption des standards du marché et l’accès des solutions Internet et mobiles. Systématiser l’utilisation des normes d’accès universel: WCAG 2.0 - ISO/IEC 40500:2012 (niveau AA ou AAA).
 
-11. **Acceptabilité sociale et utilisation des données éthique et responsable**, dans le cadre des travaux avec le centre de recherche CIRAIG, la Ville de Montréal a défini une série de principes directeurs visant à garantir le respect de la personne dans les usages des technologies. Ces principes seront suivis et feront l'objet de politiques officielles et d’engagements, tels que les déclarations Cities for digital rights et la Déclaration de Montréal pour un développement responsable de l’intelligence artificielle. 
+11. **Acceptabilité sociale et utilisation des données éthique et responsable**, dans le cadre des travaux avec le centre de recherche CIRAIG, la Ville de Montréal a défini une série de principes directeurs visant à garantir le respect de la personne dans les usages des technologies. Ces principes seront suivis et feront l'objet de politiques officielles et d’engagements, tels que les déclarations Cities for digital rights et la Déclaration de Montréal pour un développement responsable de l’intelligence artificielle. <br />
 La donnée contribue à améliorer les milieux de vie urbains et à éclairer les prises de décisions collectives et individuelles mais doit être utilisée à bon escient en prenant en compte les paramètres de protection de la vie privée
 
 12. **Conformité législative**, les projets du programme doivent être conformes aux règlements, lois et politiques établies.
