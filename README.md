@@ -3,7 +3,7 @@
 
 <a id='french-version' class='anchor' aria-hidden='true'/>
 
-# Principes directeurs d'architecture du programme Montréal en commun
+# Principes directeurs d'architecture TI du programme Montréal en commun
 
 ## Objectif
 
