@@ -11,6 +11,8 @@ Just head over to the GitHub page and click the "Fork" button. It's just that si
 git clone git@github.com:USERNAME/FORKED-PROJECT.git
 ```
 
+![collaboration](https://github.com/houssamkhalifeh/MontrealEnCommun/blob/master/forking-overview.svg)
+
 ## Keeping Your Fork Up to Date
 
 While this isn't an absolutely necessary step, if you plan on doing anything more than just a tiny quick fix, you'll want to make sure you keep your fork up to date by tracking the original "upstream" repo that you forked. To do this, you'll need to add a remote:
