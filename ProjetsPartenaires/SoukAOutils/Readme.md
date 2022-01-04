@@ -40,8 +40,25 @@ Le serveur d’autorisation reconnait les identités de plusieurs fournisseurs. 
 - <a class='anchor' href='../../R%C3%A9f%C3%A9rentiel/OpenIddict'>OpenIddict</a>  
 #### APIs
 Faire référence à l'inventaire des APIs au besoin  
+- List des objets dans le souk : [ReservationAPI]/api/items
+- Ajouter un objet [ReservationAPI]/api/items/add
+- Retirer un objet [ReservationAPI]/api/items/withdraw
+- Réserver un objet [ReservationAPI]/api/reservations/add
+- Retourner un objet [ReservationAPI]/api/items/return
 #### Dépendendance
 <Ajouter les dépendences>
+### Guides de déploiement
+Copier le dépôt et exécuter les commandes:
+```
+dotnet restore 
+dotnet run
+```
+Créer et initier la base de données:
+```
+dotnet ef migrations add initial_migration
+dotnet ef database update
+
+```
 ### Guides d'opération
 Démarrer les 3 composants:
 ```
