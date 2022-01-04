@@ -37,6 +37,7 @@ Le service de partage est assuré par trois composants :
 Le serveur d’autorisation reconnait les identités de plusieurs fournisseurs. Il est aussi extensible pour accepter n’importe quel autre fournisseur qui implémente le protocole OIDC. Il permet aussi de définir les rôles des utilisateurs et les scopes des applications clientes. Les identités des fournisseurs externes sont associées à une identité locale construite avec l’identité ASP.Net Core.
 #### Modules
 - <a class='anchor' href='../../R%C3%A9f%C3%A9rentiel/ASP.NET%20Core/Readme.md'>ASP.Net Core</a>  
+- <a class='anchor' href='../../R%C3%A9f%C3%A9rentiel/OpenIddict'>OpenIddict</a>  
 #### APIs
 Faire référence à l'inventaire des APIs au besoin  
 #### Dépendendance
