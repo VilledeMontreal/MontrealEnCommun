@@ -1,3 +1,3 @@
 # La Fabrique des Mobilités Québec
 
-https://github.com/savoirfairelinux/fabmob
+https://github.com/FabmobQC
