@@ -126,8 +126,3 @@ The source code for this project is released under the [MIT License](LICENSE).
 ### Code of Conduct
 
 Participation in this poject is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
-
-### To Do
--Build
--Installation
--Testing
