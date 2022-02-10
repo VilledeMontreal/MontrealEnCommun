@@ -71,22 +71,47 @@ ______________________
 
 # Architecture Principles of Montréal en commun
 
-## Template for README.md
+## Objective
 
-- Project description
+The different systems of the MeC program are not made by only one developer. They are also not necessarily developed in collaboration between the partners. It is thus primordial to put in place some basic guidelines to ensure their integrations. A target holistic architecture is published and made available as a reference and baseline. This architecture illustrates the integration of the MeC systems and allows the partners to put in place a detailed architecture of their sub-systems that integrate themselves well in the MeC ecosystem.<br />
 
-### Details
+The principles aim above all is to orient the architectures of the contributions of the MeC program to offer personalized services of high value and in a homogenous, integrated and efficient manner which facilitates access to relevant, timely and quality information.<br />
+These principles are derived mainly from the best practices of the industry with a presentation and a prioritization that aligns itself with the vision that was in the Canadian Smart Cities Challenge.<br />
 
-- How does it work?
-- Who will use this project?
+The goal of this document is to present the list of architecture principles of the MeC program.
 
-### Build
+### List of principles
 
-### Installation
+1. **Primacy of architecture principles**, the architecture principles apply to all the solutions and all the projects in order to improve the synergies, replicability, adaptability and its scalability within Montréal en commun. Discrepancies should be justified and submitted for approval by the appropriate peers.
+2. **Integrated, modular and reusable architecture**, plan for the integration of systems during the design phases, promote a highly decoupled modular approach, open-to-change connection interfaces, data isolation, and maximize the  reuse of developed application modules.
+3. **Technological neutrality**, the services are designed so that the technologies are interchangeable; the architectures must provide alternatives or continuity plans and observe the aspects of migrability and portability.
+4. **Open source software and hardware**, under the City of Montreal's free and open source policy, focus on the development and adoption of software and hardware under open source license, in order to reduce the risks of vendor lock-in and maximize the scalability of the developed solutions. All the projects developed within the framework of Montréal en Commun have a vocation to be replicable and to propose solutions that will become common and beneficial to the Montreal community and elsewhere.
+5. **Data: a strategic asset to be protected and valued**, data is a valuable asset that the Montréal en Commun program aspires to make accessible through its open data initiative. The practice of this principle aims in particular to:
+    - Optimize categorization and facilitate discovery and accessibility of data.
+    - Maintain data quality, normalization, sanitization and aggregation.
+    - Respect the principles of Montréal’s Digital Data Charter.
 
-### Testing
 
-### License
+6. **Standardization**, adopt existing IT standards, particularly for APIs and data exchanges, and contribute to relevant standardization efforts. Also follow development methodologies that observe in particular development standards such as unit testing, code review and automated processes.
+
+7. **Common digital identity**, ensure consistency in the identification logic, and favor single sign-on contexts to make the user experience fluid and simple.
+
+8. **Security standards**, each service must manage its own security and ensure that the security breaches of a service does not jeopardize the other systems. Apply OWASP security principles and stay informed of vulnerability logs and adopt mitigation measures and best practices.
+
+10. **Accessibility and user-friendliness**, promote the adoption of market standards and access to Internet and mobile solutions. Systematize the use Web Content Accessibility Guidelines (WCAG) international standard: WCAG 2.0 - ISO/IEC 40500:2012 (AA or AAA level).
+
+11. **Social acceptability and ethical and responsible use of data**, as part of the work with the CIRAIG research center, the City of Montreal has defined a series of guiding principles aimed at guaranteeing respect for the individual in the use of technologies . These principles will be followed and will be the subject of official policies and commitments, such as the Cities for digital rights declarations and the Montreal Declaration for the responsible development of artificial intelligence. <br />
+Data contributes to improving urban living environments and informing collective and individual decision-making, but must be used wisely and in accordance with privacy protection guidelines.
+
+12. **Legislative Compliance**, program projects must comply with established regulations, laws and policies.
+
+13. **Digital inclusion**, the LIUM recognizes and works to bridge or reduce the digital divide. Montréal en commun projects must also recognize the digital divide because they are aimed at community organizations and disadvantaged people and encourage partners to apply an ADS+ approach, i.e. analysis differentiated according to gender and other factors to ensure that technological solutions do not create injustice.
+
+14. **Eco-design of services and products**, The software and services of the Montréal en commun program respect the principles of sustainable development and environmental constraints from the first stages of functional, graphic, ergonomic, technical design, etc. Priority is given in particular to reducing the resources consumed throughout the life cycle of the services as well as to the underlying material infrastructure. The practice of the principle of eco-design materializes in:
+    - A strategic vision, consistent with the vision of Montréal en commun, which governs the intention and the organizational aspect.
+    - Operational integration during the design, production and consumption of services.
+
+15. **Standards for the operational management of solutions**, Ensure the autonomy of partners in the operational management of components. Favor cloud computing platforms and respect non-functional constraints (continuity, performance, logging, etc.)
 
 The source code of this project is distributed under the [MIT License](LICENSE).
 
@@ -94,7 +119,10 @@ The source code of this project is distributed under the [MIT License](LICENSE).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md#english-version).
 
+### License and Intellectual Property
+
+The source code for this project is released under the [MIT License](LICENSE).
+
 ### Code of Conduct
 
 Participation in this poject is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
-
