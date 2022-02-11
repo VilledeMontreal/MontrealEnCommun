@@ -98,7 +98,8 @@ The goal of this document is to present the list of architecture principles of t
 
 8. **Security standards**, each service must manage its own security and ensure that the security breaches of a service does not jeopardize the other systems. Apply OWASP security principles and stay informed of vulnerability logs and adopt mitigation measures and best practices.
 
-10. **Accessibility and user-friendliness**, promote the adoption of market standards and access to Internet and mobile solutions. Systematize the use Web Content Accessibility Guidelines (WCAG) international standard: WCAG 2.0 - ISO/IEC 40500:2012 (AA or AAA level).
+9. **Identification, assessment and mitigation of risks**, the deliverables must contain a clear documentation of the risks with the mitigation measures and residual risks.
+11. **Accessibility and user-friendliness**, promote the adoption of market standards and access to Internet and mobile solutions. Systematize the use Web Content Accessibility Guidelines (WCAG) international standard: WCAG 2.0 - ISO/IEC 40500:2012 (AA or AAA level).
 
 11. **Social acceptability and ethical and responsible use of data**, as part of the work with the CIRAIG research center, the City of Montreal has defined a series of guiding principles aimed at guaranteeing respect for the individual in the use of technologies . These principles will be followed and will be the subject of official policies and commitments, such as the Cities for digital rights declarations and the Montreal Declaration for the responsible development of artificial intelligence. <br />
 Data contributes to improving urban living environments and informing collective and individual decision-making, but must be used wisely and in accordance with privacy protection guidelines.
