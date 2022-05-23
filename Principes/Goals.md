@@ -7,5 +7,5 @@
 [Exigences](Requirements.md)    
 # Buts/Objectifs
 
-![Parties prenantes et pilotes](Goals.png)  
-![Parties prenantes et pilotes](GoalsRealization.png)
+![Parties prenantes et pilotes](Images/Goals.png)  
+![Parties prenantes et pilotes](Images/GoalsRealization.png)
