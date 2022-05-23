@@ -6,7 +6,7 @@
 [Principes directeurs de l'architecture](Principes.md)  
 [Exigences](Requirements.md)    
 
-# Assessments
+# Évaluation
 
 ![Évaluation](Images/Stakeholder%20-%20INFC.png)  
 ![Évaluation](Images/Stakeholder%20-%20VMTL.png)
