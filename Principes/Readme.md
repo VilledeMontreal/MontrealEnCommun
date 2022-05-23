@@ -5,7 +5,7 @@ Une **Vue de motivation** couvre l’aspect motivationnel du point de vue d’un
 ![Vue de motivation](Motivation%20Viewpoint.png)
 
   
-[Parties prenante et pilotes](Stackholders.md)  
+[Parties prenante et pilotes](Stakeholders.md)  
 [Évaluations](Assessments.md)  
 [Objectifs](Goals.md)  
 [Principes directeurs de l'architecture](Principes.md)  
