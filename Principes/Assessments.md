@@ -8,5 +8,5 @@
 
 # Assessments
 
-![Évaluation](Stakeholder%20-%20INFC.png)  
-![Évaluation](Stakeholder%20-%20VMTL.png)
+![Évaluation](Images/Stakeholder%20-%20INFC.png)  
+![Évaluation](Images/Stakeholder%20-%20VMTL.png)
