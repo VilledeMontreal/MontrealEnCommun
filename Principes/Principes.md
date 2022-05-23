@@ -3,6 +3,14 @@
 
 <a id='french-version' class='anchor' aria-hidden='true'/>
 
+# Vue de motivation
+[Motivation](Readme.md)  
+[Parties prenante et pilotes](Stakeholders.md)  
+[Évaluations](Assessments.md)  
+[Objectifs](Goals.md)  
+[Principes directeurs de l'architecture](Principes.md)  
+[Exigences](Requirements.md)    
+
 # Principes directeurs d'architecture TI du programme Montréal en commun
 
 ## Objectif
