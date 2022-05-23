@@ -15,5 +15,5 @@ Le **Moteur** de l'INFC est de *Maximiser la rentabilité du financement* et en 
 Le **Moteur** de la ville est de *Livrer la vision gagnante du défi des villes intelligentes* et encourager les partenaires locaux à se joindre à cette vision.
 
 
-![Parties prenantes et pilotes](Stakeholders.png)
+![Parties prenantes et pilotes](Images/Stakeholders.png)
 
