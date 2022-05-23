@@ -12,7 +12,7 @@ Les différents systèmes du programme MeC ne sont pas construits par un seul r�
 Les principes visent surtout à orienter les architectures des contributions du programme MeC afin d’offrir des services personnalisés de haute valeur et ce d’une manière homogène, intégrée et efficace qui facilite l’accès à de l’information pertinente, opportune et de qualité.<br />
 Ces principes sont issus principalement des meilleures pratiques de l’industrie avec une présentation et une priorisation qui s’aligne avec la vision présentée dans le défi des villes intelligentes.<br />
 
-![Image of OAuth 2.0](Goal%20-%20Services%20Num%C3%A9riques.png)
+![Principes directeurs](Goal%20-%20Services%20Num%C3%A9riques.png)
 
 Le but de ce document est de présenter la liste des principes directeurs de des architectures des contributions aux programme MeC.
 
