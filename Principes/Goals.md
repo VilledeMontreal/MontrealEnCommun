@@ -78,7 +78,7 @@ Deux *résultats* :
 <a id='pooling' class='anchor' aria-hidden='true'/>  
 
 # Mutualisation 
-
+La mutualisation permet de mettre en partage des ressources et outils pour maximiser leur utilisation et aussi élargir la base d’utilisateurs qui en bénéficient.  
 ![Mutualisation](Images/Mutualisation.png)
 <a id='eco-design' class='anchor' aria-hidden='true'/>  
 
