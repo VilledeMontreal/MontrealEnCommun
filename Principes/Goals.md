@@ -72,6 +72,7 @@ Deux *résultats* :
     - Principe 2: Architecture intégrée, modulaire et réutilisable
     - Principe 3: Neutralité technologique
     - Principe 4: Logiciels et matériels libres
+    - Principe 6: Standardisation
 
 ![Approche expérimentale](Images/Approche%20experimentale.png)
 <a id='pooling' class='anchor' aria-hidden='true'/>  
