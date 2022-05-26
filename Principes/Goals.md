@@ -28,8 +28,13 @@ Le *résultat* recherché est d’*établir une architecture de solution intégr
 ![Services numériques](Images/Goal%20-%20Services%20Num%C3%A9riques.png)  
 <a id='accessible-services' class='anchor' aria-hidden='true'/>  
 
-# Services accessibles  
-Deux *résultats* :  
+# Services accessibles
+Cet objectif est issu des évaluations suivantes :
+- Une dépendance croissante des plateformes numériques
+- Certains citoyens n'ont pas accès aux services
+- La population vulnérable n'est pas ciblée
+
+On atteint cet objectif lorsqu’on obtient deux *résultats* :  
 -	Faciliter l’utilisation
     - Principe 7: Identité numérique commune
     - Principe 10: Accessibilité et convivialité
