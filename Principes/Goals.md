@@ -1,12 +1,11 @@
 # Vue de motivation
 [Motivation](Readme.md)  
 [Parties prenante et pilotes](Stakeholders.md)  
-[Évaluations](Assessments.md)  
 [Objectifs](Goals.md)  
 [Principes directeurs de l'architecture](Principes.md)  
 [Exigences](Requirements.md)    
 # Buts/Objectifs
-À partir des évaluations des parties prenantes du programme MeC, la liste des objectifs suivants a été identifiée :
+À partir des évaluations des parties prenantes du programme MeC, la liste des *objectifs* suivants a été identifiée :
 
 ![Objectifs du programme MeC](Images/Goals.png)  
 
@@ -29,12 +28,12 @@ Le *résultat* recherché est d’*établir une architecture de solution intégr
 <a id='accessible-services' class='anchor' aria-hidden='true'/>  
 
 # Services accessibles
-Cet objectif est issu des *évaluations* suivantes :
+Cet *objectif* est issu des *évaluations* suivantes :
 - Une dépendance croissante des plateformes numériques
 - Certains citoyens n'ont pas accès aux services
 - La population vulnérable n'est pas ciblée
 
-On atteint cet objectif lorsqu’on obtient deux *résultats* :  
+On atteint cet *objectif* lorsqu’on obtient deux *résultats* :  
 -	Faciliter l’utilisation
     - Principe 7: Identité numérique commune
     - Principe 10: Accessibilité et convivialité
@@ -45,7 +44,7 @@ On atteint cet objectif lorsqu’on obtient deux *résultats* :
 <a id='open-data' class='anchor' aria-hidden='true'/>  
 
 # Données ouvertes  
-Cet objectif est issu des *évaluations* suivantes :
+Cet *objectif* est issu des *évaluations* suivantes :
 - Données numériques abondantes sous-exploitées
 - Données numériques non-accessibles
 
@@ -57,7 +56,7 @@ Il vise à obtenir les trois *résultats* suivants:
 <a id='replicability' class='anchor' aria-hidden='true'/>  
 
 # Réplicabilité 
-Cet objectif est issu de l'*évaluation* suivante:
+Cet *objectif* est issu de l'*évaluation* suivante:
 - Une seule ville bénéficie du financement
 Deux *résultats* sont recherchés:
 -	Diminuer le menottage technologique
@@ -69,7 +68,7 @@ Deux *résultats* sont recherchés:
 <a id='sustainability' class='anchor' aria-hidden='true'/>  
 
 # Périnisation 
-Cet objectif est issu de l'*évaluation* suivante:
+Cet *objectif* est issu de l'*évaluation* suivante:
 - Les engagements sont limités à la durée du financement
 
 Et les deux *résultats* suivants sont recherchés:
@@ -96,7 +95,7 @@ Avec un *résultat* à obtenir:
 
 # Mutualisation 
 La mutualisation permet de mettre en partage des ressources et outils pour maximiser leur utilisation et aussi élargir la base d’utilisateurs qui en bénéficient.  
-Cet objectif a été choisi suite aux *évaluations* suivantes :
+Cet *objectif* a été choisi suite aux *évaluations* suivantes :
 - Économie du quartier sous-valorisée
 - Équipements et locaux sous utilisés  
 
@@ -108,7 +107,7 @@ Les *résultats* ne seront pas clairement observés dans les solutions numériqu
 Une *évaluation* constaté par toutes les *parties prenantes* mène à cet *objectif* :
 - Il est temps d’agir contre le changement climatique
 
-Le *Résultat* principal espéré est:
+Le *résultat* principal espéré est:
 - Réduire l'empreinte écologique
     - Principe 14:  
     Écoconception des services et produits
