@@ -29,7 +29,7 @@ Le *résultat* recherché est d’*établir une architecture de solution intégr
 <a id='accessible-services' class='anchor' aria-hidden='true'/>  
 
 # Services accessibles
-Cet objectif est issu des évaluations suivantes :
+Cet objectif est issu des *évaluations* suivantes :
 - Une dépendance croissante des plateformes numériques
 - Certains citoyens n'ont pas accès aux services
 - La population vulnérable n'est pas ciblée
@@ -45,7 +45,11 @@ On atteint cet objectif lorsqu’on obtient deux *résultats* :
 <a id='open-data' class='anchor' aria-hidden='true'/>  
 
 # Données ouvertes  
-3 *résultats* recherchés:  
+Cet objectif est issu des *évaluations* suivantes :
+- Données numériques abondantes sous-exploitées
+- Données numériques non-accessibles
+
+Il vise à obtenir les trois *résultats* suivants:  
 - Assurer l'accès aux données pour offrir des services de qualité
 - Respecter la charte des données numériques de la ville
 - Respecter la loi sur la protection des renseignements personnels
@@ -53,7 +57,9 @@ On atteint cet objectif lorsqu’on obtient deux *résultats* :
 <a id='replicability' class='anchor' aria-hidden='true'/>  
 
 # Réplicabilité 
-2 *résultats* recherchés:
+Cet objectif est issu de l'*évaluation* suivante:
+- Une seule ville bénéficie du financement
+Deux *résultats* sont recherchés:
 -	Diminuer le menottage technologique
     -	Principe 3: Neutralité technologique
 -	Favoriser le partage d'expériences
@@ -63,7 +69,10 @@ On atteint cet objectif lorsqu’on obtient deux *résultats* :
 <a id='sustainability' class='anchor' aria-hidden='true'/>  
 
 # Périnisation 
-2 *résultats* recherchés:
+Cet objectif est issu de l'*évaluation* suivante:
+- Les engagements sont limités à la durée du financement
+
+Et les deux *résultats* suivants sont recherchés:
 - Offrir des services faciles à évoluer
 - Assurer la continuité et la robustesse
 
@@ -71,7 +80,10 @@ On atteint cet objectif lorsqu’on obtient deux *résultats* :
 <a id='experimentation' class='anchor' aria-hidden='true'/>  
 
 # Approche expérimentale 
-*Résultat*:
+Issu de l'*évaluation*:
+- Manque de clarté des besoins et leurs pertinences
+
+Avec un *résultat* à obtenir:
 - Offrir des services faciles à évoluer
     - Principe 1: Primauté des principes d’architecture
     - Principe 2: Architecture intégrée, modulaire et réutilisable
@@ -84,11 +96,19 @@ On atteint cet objectif lorsqu’on obtient deux *résultats* :
 
 # Mutualisation 
 La mutualisation permet de mettre en partage des ressources et outils pour maximiser leur utilisation et aussi élargir la base d’utilisateurs qui en bénéficient.  
+Cet objectif a été choisi suite aux *évaluations* suivantes :
+- Économie du quartier sous-valorisée
+- Équipements et locaux sous utilisés  
+
 ![Mutualisation](Images/Mutualisation.png)
 <a id='eco-design' class='anchor' aria-hidden='true'/>  
+Les *résultats* ne seront pas clairement observés dans les solutions numériques mais plutôt par l'augmentation du partage des locaux et outils.  
 
 # Écoconception 
-*Résultat*:
+Une *évaluation* constaté par toutes les *parties prenantes* mène à cet *objectif* :
+- Il est temps d’agir contre le changement climatique
+
+Le *Résultat* principal espéré est:
 - Réduire l'empreinte écologique
     - Principe 14:  
     Écoconception des services et produits
