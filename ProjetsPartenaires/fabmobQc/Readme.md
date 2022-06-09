@@ -7,8 +7,8 @@ wiki: https://wiki.lafabriquedesmobilites.fr/wiki/La_Fabrique_des_Mobilit%C3%A9s
 
 Github de l'organisation: https://github.com/FabmobQC
 
-# Ma Mobilité
-## Sommaire
+# Croisement et collecte de données
+## Ma mobilité
 
 Site web: https://fabmobqc.ca/ma-mobilite/
 
@@ -18,8 +18,11 @@ Application mobile : https://github.com/FabmobQC/mamobilite
 
 Serveur E-mission: https://github.com/e-mission/e-mission-server
 
-# Curblr
-## Sommaire
+
+# Bordure de rue
+
+
+## Curblr
 
 Site web: https://fabmobqc.ca/ma-mobilite/
 
@@ -27,14 +30,31 @@ Github:
 
  https://github.com/FabmobQC/curblr
 
-# Curb map
-## Sommaire
+## Curb map
 
 Site web: https://wiki.lafabriquedesmobilites.fr/wiki/Carte_CurbLR_de_Montr%C3%A9al
 
 Github: 
 
 https://github.com/FabmobQC/curb-map
+
+## Mobiclic
+https://fabmobqc.ca/bordure-de-rue/mobiclic/
+
+# taxi et transport à la demande
+## GTFS flex
+https://github.com/MobilityData/gtfs-flex
+
+## GTFS On demand
+https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/
+
+## Registre du taxi
+http://www.registretaximontreal.ca/quest-ce-que-le-registre-des-taxis/
+
+# Covoiturage
+https://fabmobqc.ca/covoiturage/
+https://wiki.lafabriquedesmobilites.fr/wiki/Covoiturage_(Qu%C3%A9bec)#Challenge_Mobilit.C3.A9_2021
+
 
 
 
