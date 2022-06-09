@@ -51,9 +51,13 @@ https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/
 ## Registre du taxi
 http://www.registretaximontreal.ca/quest-ce-que-le-registre-des-taxis/
 
+## taxivgl
+https://github.com/FabmobQC/taxivgml
+
 # Covoiturage
 https://fabmobqc.ca/covoiturage/
 https://wiki.lafabriquedesmobilites.fr/wiki/Covoiturage_(Qu%C3%A9bec)#Challenge_Mobilit.C3.A9_2021
+
 
 
 
