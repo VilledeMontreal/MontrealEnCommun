@@ -3,6 +3,8 @@
 
 Site web: https://fabmobqc.ca/
 
+wiki: https://wiki.lafabriquedesmobilites.fr/wiki/La_Fabrique_des_Mobilit%C3%A9s_Qu%C3%A9bec
+
 Github de l'organisation: https://github.com/FabmobQC
 
 # Ma Mobilité
