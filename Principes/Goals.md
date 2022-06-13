@@ -67,7 +67,7 @@ Deux *résultats* sont recherchés:
 ![Réplicabilité](Images/Replicabilite.png)
 <a id='sustainability' class='anchor' aria-hidden='true'/>  
 
-# Périnisation 
+# Pérénnisation 
 Cet *objectif* est issu de l'*évaluation* suivante:
 - Les engagements sont limités à la durée du financement
 
