@@ -34,6 +34,7 @@ Github:
 ## Curb map
 
 Site web: https://wiki.lafabriquedesmobilites.fr/wiki/Carte_CurbLR_de_Montr%C3%A9al
+Démo: https://stationnement-plaza-saint-hubert.netlify.app/
 
 Github: 
 
@@ -53,7 +54,9 @@ https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/
 http://www.registretaximontreal.ca/quest-ce-que-le-registre-des-taxis/
 
 ## taxivgl
+Visualisation des postes de taxi dasn Open street map
 https://github.com/FabmobQC/taxivgml
+Démo: https://umap.openstreetmap.fr/en/map/postes-dattente-ville-de-montreal_738554#14/45.5238/-73.5810
 
 # Covoiturage
 https://fabmobqc.ca/covoiturage/
