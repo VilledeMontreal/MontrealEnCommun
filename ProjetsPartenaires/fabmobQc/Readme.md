@@ -19,6 +19,10 @@ Application mobile : https://github.com/FabmobQC/mamobilite
 
 Serveur E-mission: https://github.com/e-mission/e-mission-server
 
+Outils d'analyses des traces ( en cours d'analyse): 
+https://gitlab.com/hexmap-oss/hexmap-dashboard/-/blob/master/README.md
+
+
 # Bordure de rue
 https://fabmobqc.ca/bordure-de-rue/
 
