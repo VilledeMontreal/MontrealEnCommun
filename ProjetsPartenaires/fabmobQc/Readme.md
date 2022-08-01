@@ -20,6 +20,7 @@ Application mobile : https://github.com/FabmobQC/mamobilite
 Serveur E-mission: https://github.com/e-mission/e-mission-server
 
 Outils d'analyses des traces ( en cours d'analyse): 
+https://wiki.lafabriquedesmobilites.fr/wiki/Communaut%C3%A9_autour_des_traces_de_mobilit%C3%A9_et_des_donn%C3%A9es_associ%C3%A9es
 https://gitlab.com/hexmap-oss/hexmap-dashboard/-/blob/master/README.md
 
 
