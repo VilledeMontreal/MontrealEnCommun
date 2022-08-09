@@ -19,6 +19,11 @@ Application mobile : https://github.com/FabmobQC/mamobilite
 
 Serveur E-mission: https://github.com/e-mission/e-mission-server
 
+Outils d'analyses des traces ( en cours d'analyse): 
+https://wiki.lafabriquedesmobilites.fr/wiki/Communaut%C3%A9_autour_des_traces_de_mobilit%C3%A9_et_des_donn%C3%A9es_associ%C3%A9es
+https://gitlab.com/hexmap-oss/hexmap-dashboard/-/blob/master/README.md
+
+
 # Bordure de rue
 https://fabmobqc.ca/bordure-de-rue/
 
@@ -34,6 +39,7 @@ Github:
 ## Curb map
 
 Site web: https://wiki.lafabriquedesmobilites.fr/wiki/Carte_CurbLR_de_Montr%C3%A9al
+Démo: https://stationnement-plaza-saint-hubert.netlify.app/
 
 Github: 
 
@@ -53,36 +59,15 @@ https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/
 http://www.registretaximontreal.ca/quest-ce-que-le-registre-des-taxis/
 
 ## taxivgl
+Visualisation des postes de taxi dasn Open street map
 https://github.com/FabmobQC/taxivgml
+Démo: https://umap.openstreetmap.fr/en/map/postes-dattente-ville-de-montreal_738554#14/45.5238/-73.5810
 
 # Covoiturage
 https://fabmobqc.ca/covoiturage/
 https://wiki.lafabriquedesmobilites.fr/wiki/Covoiturage_(Qu%C3%A9bec)#Challenge_Mobilit.C3.A9_2021
 
 
-## Besoin
-<Détails>
-## Solution
-### Cas d'usages
-#### Cas d'usage I
-<Détails>
-#### Cas d'usage II
-<Détails>
-#### Cas d'usage III
-<Détails>
-### Détails techniques
-#### Architecture  
-#### Modules
-<Faire référence au référentiel des modules au besoin>
-#### APIs
-<faire référence à l'inventaire des APIs au besoin>
-#### Dépendendance
-### Guides de déploiement
-<Détails>
-### Guides d'opération
-<Détails>
-### Plan de migration
-<Détails>
 
 https://github.com/FabmobQC
 
