@@ -11,6 +11,6 @@ jalonmtl.services
 ## CurbLR
 https://stationnements-quebec-curblr.netlify.app/
 
-## Indice d'Accessibilité
+## Indice d'accessibilité
 
 https://indice.jalonmtl.services/indice/
