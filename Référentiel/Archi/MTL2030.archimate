@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="MTL2030" id="id-ba543f23b07645e8b158d3dc254b11c8" version="4.9.0">
+  <folder name="Strategy" id="id-c833fbceaef44b7ab8f94d449e9d247c" type="strategy">
+    <element xsi:type="archimate:CourseOfAction" name="Intégration des nouvelles mobilités dans l’appli de l’ARTM" id="id-6aad7a00d4104908af56ea3b85d1447e"/>
+    <element xsi:type="archimate:CourseOfAction" name="Amélioration des outils de collecte de données en mobilité et des indicateurs" id="id-194ef52cca2942d0b2d798fee2684653"/>
+  </folder>
+  <folder name="Business" id="id-0dbc458bf52746c78ae3af4261a62855" type="business">
+    <element xsi:type="archimate:BusinessActor" name="FabMob" id="id-135dabd74c5448c49565a00dac6ff1b6"/>
+  </folder>
+  <folder name="Application" id="id-335c144fd9e0402da80a317becd53a5c" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-46034f626a9641088d4835a5f07cadba" type="technology"/>
+  <folder name="Motivation" id="id-2fba9456452e4688842c9a4e9b24a7ba" type="motivation">
+    <element xsi:type="archimate:Goal" name="Accroître et diversifier l’offre de transport en fournissant des options de mobilité durable" id="id-e942e47567dd4d0eb9dc04e97b96a0e6"/>
+  </folder>
+  <folder name="Implementation &amp; Migration" id="id-9ebd5e6d1b604412bf13491de2c3d2cd" type="implementation_migration"/>
+  <folder name="Other" id="id-ea8f643e1bc9415b9f4c66e242a0fb5b" type="other"/>
+  <folder name="Relations" id="id-63e07947ab194292b41c6a0b86976227" type="relations">
+    <element xsi:type="archimate:AssociationRelationship" id="id-3789701bd5a04e0397d5298ea4f5a291" source="id-194ef52cca2942d0b2d798fee2684653" target="id-135dabd74c5448c49565a00dac6ff1b6"/>
+    <element xsi:type="archimate:InfluenceRelationship" id="id-3565f6063d874e888104e69862cb15c7" source="id-6aad7a00d4104908af56ea3b85d1447e" target="id-e942e47567dd4d0eb9dc04e97b96a0e6" strength="++"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-6d0a60e0a2064fd8bda73af93e6cd579" source="id-135dabd74c5448c49565a00dac6ff1b6" target="id-6aad7a00d4104908af56ea3b85d1447e"/>
+  </folder>
+  <folder name="Views" id="id-a18fbd7f21654712a3ae9fb820f887ce" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-88b2958cd81e457891f9acc6ca3796d3">
+      <child xsi:type="archimate:DiagramObject" id="id-28c88793e5d54f6d9ad54eb3fd257389" targetConnections="id-dd1497a52d854b14b427e1b51da341eb" archimateElement="id-6aad7a00d4104908af56ea3b85d1447e">
+        <bounds x="565" y="372" width="168" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-f318adc28cbe489c97e9d8a2b277c5c0" textPosition="2" source="id-28c88793e5d54f6d9ad54eb3fd257389" target="id-597d4030806c4175bef880cf03e18f3d" archimateRelationship="id-3565f6063d874e888104e69862cb15c7"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-597d4030806c4175bef880cf03e18f3d" targetConnections="id-f318adc28cbe489c97e9d8a2b277c5c0" archimateElement="id-e942e47567dd4d0eb9dc04e97b96a0e6">
+        <bounds x="348" y="132" width="168" height="79"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-d47d3c6d70ca4db8ab7e7ccae8bdd380" targetConnections="id-66fc8afb179d44249d78048a5dd44522" archimateElement="id-135dabd74c5448c49565a00dac6ff1b6">
+        <bounds x="745" y="260" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-dd1497a52d854b14b427e1b51da341eb" source="id-d47d3c6d70ca4db8ab7e7ccae8bdd380" target="id-28c88793e5d54f6d9ad54eb3fd257389" archimateRelationship="id-6d0a60e0a2064fd8bda73af93e6cd579"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-7225e3f9562945bca08eb26cbd94c4b7" archimateElement="id-194ef52cca2942d0b2d798fee2684653">
+        <bounds x="877" y="372" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-66fc8afb179d44249d78048a5dd44522" source="id-7225e3f9562945bca08eb26cbd94c4b7" target="id-d47d3c6d70ca4db8ab7e7ccae8bdd380" archimateRelationship="id-3789701bd5a04e0397d5298ea4f5a291"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>
