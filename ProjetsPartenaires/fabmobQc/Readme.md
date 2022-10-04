@@ -69,7 +69,4 @@ https://wiki.lafabriquedesmobilites.fr/wiki/Covoiturage_(Qu%C3%A9bec)#Challenge_
 
 
 
-https://github.com/FabmobQC
-
-Site web: https://fabmobqc.ca/
 
