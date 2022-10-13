@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/houssamkhalifeh/MontrealEnCommun.svg?style=flat-square)](https://github.com/houssamkhalifeh/MontrealEnCommun/blob/master/LICENSE)  
+[![license](https://img.shields.io/github/license/VilledeMontreal/montrealencommun.svg?style=flat-square)](https://github.com/VilledeMontreal/montrealencommun/blob/master/LICENSE)  
   
 ([English](#english-version))
 
