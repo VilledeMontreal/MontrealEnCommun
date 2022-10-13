@@ -1,4 +1,5 @@
-
+[![license](https://img.shields.io/github/license/VilledeMontreal/montrealencommun.svg?style=flat-square)](https://github.com/VilledeMontreal/montrealencommun/blob/master/LICENSE)  
+  
 ([English](#english-version))
 
 <a id='french-version' class='anchor' aria-hidden='true'/>
