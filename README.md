@@ -6,7 +6,7 @@
 
 # Montréal en commun : la ville comme laboratoire
 
-Montréal en commun vise à bâtir une ville à l’image de sa population. Cette communauté d’innovation expérimente des solutions concrètes à des problèmes de mobilité, d’alimentation et de réglementation municipale. L’objectif : tester des idées pour améliorer la qualité de vie dans nos quartiers.<br />
+**Montréal** en commun vise à bâtir une ville à l’image de sa population. Cette communauté d’innovation expérimente des solutions concrètes à des problèmes de mobilité, d’alimentation et de réglementation municipale. L’objectif : tester des idées pour améliorer la qualité de vie dans nos quartiers.<br />
 
 
 
