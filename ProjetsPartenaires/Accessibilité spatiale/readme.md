@@ -3,8 +3,6 @@
 
 Polytechnique Montréal, l’Université McGill et l’Institut national de la recherche scientifique (INRS) mènent une étude visant à générer des indicateurs d’accessibilité aux destinations à la marche et à vélo sur le territoire de la Ville de Montréal. 
 
-Les indicateurs développés peuvent être visualisés sur la plateforme Sus de l'Université McGill : http://susmtl.ca/?tb=city_amenities
-
 Ce projet, financé par Mitacs et la Ville de Montréal, est encore en phase de développement.
 <br/>
 
@@ -49,4 +47,5 @@ Chaque indicateur est calculé au niveau des îlots de diffusion, soit les plus 
 
 
 #### Résultats
-Les résultats peuvent être visualisés sur la plateforme Sus de l’Université McGill : http://susmtl.ca/?tb=city_amenities
+Visualisation des indicateurs en ligne : à venir
+
