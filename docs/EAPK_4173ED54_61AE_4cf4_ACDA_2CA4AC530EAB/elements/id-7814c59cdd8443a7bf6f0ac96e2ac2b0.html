@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Client Partages</title>
+	<title>ETL</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -21,7 +21,7 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>Client Partages</b>
+               <b>ETL</b>
 
             <!-- If a View with Viewpoint -->
 			   (<span class="i18n-elementtype-ApplicationComponent"></span>)
@@ -45,8 +45,14 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">Le client partages
-On installe le client localement sur l'ordinateur des utilisateurs de la plateforme afin de leur permettre d'effectuer la configuration et la gestion des sources de donn&#233;es. Il s'agit d'une interface visuelle qui permet d'administrer les fonctions exerc&#233;es par l'Agent. </div>
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Transformations
+Le module de transformations est une application qui permet l'encapsulation et la livraison de fonctionnalit&#233;s de transformation applicables sur les jeux de donn&#233;es de l'application Partages. Ces transformations sont ex&#233;cut&#233;es localement dans l'application Partages afin d'assurer la protection d'informations confidentielles et garantir le respect de modalit&#233;s de gouvernance fournis par Ententes. On retrouve des fonctions de transformations parmis les suivantes:
+
+Conversion de donn&#233;es (JSON vers CSV)
+Anonymisation (hachage unidirectionnel, retrait de colonnes, regroupement de donn&#233;es)
+Cat&#233;gorisation g&#233;ographique
+
+L'application est op&#233;r&#233;e par l'&#233;quipe d'administration de la plateforme Comax et permet l'expantion des fonctions de traitement de donn&#233;es sans avoir &#224; mettre &#224; jour l'application Partages dans son ensemble.</div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
