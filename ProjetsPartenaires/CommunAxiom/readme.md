@@ -5,7 +5,7 @@ Licence MIT
 <br/>
 <br/>
 
-[Site web](https://communaxiom.org/)
+[Site web Commun Axiom](https://communaxiom.org/)
 <br/>
 <br/>
 ## Github
@@ -18,8 +18,11 @@ Ci-dessous les repos les plus importants.
 | Application | Description | Link |
 | ------------ | ---------- | --------- |
 | Profiles / Profils | Plateforme OIDC permettant l'authentification et l'authorization des composantes de la plateforme | [comax-accounts](https://github.com/Veronneau-Techno-Conseil/comax-accounts) |
-| Commons / Partages | Application distribuée installées on premise pour effectuer le partage des données | [comax-commons](https://github.com/Veronneau-Techno-Conseil/comax-commons) |
+| Commons Ecosystem / Écosystème Partages | Réseau décentralisé de collaboration de données | [comax-commons](https://github.com/Veronneau-Techno-Conseil/comax-commons) |
+| Commons Client / Client Partages | Application web installées on premise pour administrer le partage des données | [comax-commons](https://github.com/Veronneau-Techno-Conseil/comax-commons/tree/main/src/Client) |
+| Commons Agent / Agent Partages | Application distribuée installées on premise pour effectuer le partage des données | [comax-commons](https://github.com/Veronneau-Techno-Conseil/comax-commons/tree/main/src/Silo) |
 | Transformations | Application web de gestion des modules de transformation | [comax-transformations](https://github.com/Veronneau-Techno-Conseil/comax-transformations)|
 | Transformation Modules | Repo contenant les modules de transformation supportés par la plateforme | [transformations-modules](https://github.com/Veronneau-Techno-Conseil/transformations-modules) |
 | Ledger / Grand Livre | Application blockchain permettant de tracer les propriétés et les ententes sur la plateforme | [comax-ledger](https://github.com/Veronneau-Techno-Conseil/comax-ledger)|
 | Let's Agree / Ententes | Application permettant la gouvernance participative ainsi que l'établissement de règles de gouvernances et d'éléments de licence | [comax-letsagree](https://github.com/Veronneau-Techno-Conseil/comax-letsagree)|
+|Reverse proxy|Application kubernetes permettant un appel entrant vers un système en backend. L'application est intégrée avec Central Api pour permettre l'approvisionnement dynamique. |[comax-reverseproxy](https://github.com/Veronneau-Techno-Conseil/comax-reverseproxy)|
