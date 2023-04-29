@@ -36,6 +36,9 @@ En parallèle, les organisations qui sont à la recherche d’équipements à pr
 
 Pour les détails techniques (installation, configuration, développement, etc.) vous pouvez vous référer au [README.md](https://github.com/lacantinepourtous/mutuali#readme) du [répertoire](https://github.com/lacantinepourtous/mutuali) de MutuAli.
 
+#### MutuAli dans le modèle MeC
+[Objectifs et réalisation de MutuAli](https://villedemontreal.github.io/MontrealEnCommun/?view=id-81a4298c3622468380076c42e3dbc7c3)
+
 #### GitHub
 
 https://github.com/lacantinepourtous/mutuali
