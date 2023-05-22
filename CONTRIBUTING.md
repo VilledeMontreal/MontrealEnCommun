@@ -29,6 +29,7 @@ N'hésitez pas à proposer des modifications en créant des [demandes de tirage 
 
 Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! [Faites-nous part de vos questions en nous contactant par courriel](mailto:<votre-courriel>&subject=<votre-projet>).
 
+![collaboration](MeC MAJ GitHub.png)
 
 
 
