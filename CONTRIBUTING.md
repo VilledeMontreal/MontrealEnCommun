@@ -11,6 +11,12 @@ Feel free to propose changes by creating [Pull Requests](https://github.com/Vill
 
 If this is your first time contributing on GitHub, don't worry! [Let us know via email if you have any questions](mailto:<your-email>&subject=<project-name>).
 
+## Fork, branch and merge
+
+In order to keep the history of the program's repository clean, we recommend a forking, branching and merging process as depicted in the following diagram :  
+
+![Fork, branch and merge](MeC%20MAJ%20GitHub-En.png)
+
 &nbsp;  
 &nbsp;  
 ______________________
@@ -33,7 +39,7 @@ Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas!
 
 Pour garder le repo du programme organisé, nous suggérons de suivre le diagramme de duplication, branchement et fusion suivant:  
 
-![collaboration](MeC%20MAJ%20GitHub.png)
+![Duplication, branchement et fusion](MeC%20MAJ%20GitHub.png)
 
 
 
