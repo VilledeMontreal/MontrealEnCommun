@@ -25,9 +25,13 @@ ______________________
 
 Lorsque vous contribuez, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des [enjeux (Issues)](https://github.com/VilledeMontreal/repository-template/issues).
 
-N'hésitez pas à proposer des modifications en créant des [demandes de tirage (Pull Requests)](https://github.com/VilledeMontreal/repository-template/pulls). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
+N'hésitez pas à proposer des modifications en créant des [demandes de tirage (Pull Requests)](https://github.com/VilledeMontreal/repository-template/pulls). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie de duplication (Fork), de sorte que vous puissiez envoyer une demande de tirage (Pull Request).
 
 Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! [Faites-nous part de vos questions en nous contactant par courriel](mailto:<votre-courriel>&subject=<votre-projet>).
+
+## Duplication, branchement et fusion
+
+Pour garder le repo du programme organisé, nous suggérons de suivre le diagramme de duplication, branchement et fusion suivant:  
 
 ![collaboration](MeC%20MAJ%20GitHub.png)
 
