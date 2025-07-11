@@ -4,7 +4,7 @@
 Polytechnique Montréal, l’Université McGill et l’Institut national de la recherche scientifique (INRS) mènent une étude visant à générer des indicateurs d’accessibilité aux destinations à la marche et à vélo sur le territoire de la Ville de Montréal. 
 
 Ce projet, financé par Mitacs et la Ville de Montréal, est encore en phase de développement. 
-Les résultats préliminaires peuvent être visualisés sur la plateforme Curbcut : https://susmtl.ca/?geo=CMA&tb=city_amenities&lng=fr
+Les résultats préliminaires peuvent être visualisés sur la plateforme Curbcut : https://montreal.curbcut.ca/
 <br/>
 
 #### Mais l’accessibilité, c’est quoi exactement et pourquoi est-ce important?
@@ -48,5 +48,7 @@ Chaque indicateur est calculé au niveau des îlots de diffusion, soit les plus 
 
 
 #### Résultats
-Visualisation des indicateurs en ligne sur l'onglet Transport > Ville de courtes distances de la plateforme Curbcut : https://susmtl.ca/?geo=CMA&tb=city_amenities&lng=fr
+Visualisation des indicateurs en ligne sur l'onglet Transport > Ville de courtes distances de la plateforme Curbcut : https://montreal.curbcut.ca/
 
+#### Tutoriel
+Si vous souhaitez reproduire les mesures d’accessibilité de manière personnalisée, ce lien vous permet de télécharger le [tutoriel] (https://drive.google.com/drive/folders/1p77e6s6bNVJwtIuPBIlxACYCmbCC8FrU?usp=drive_link) ainsi que les données nécessaires.
